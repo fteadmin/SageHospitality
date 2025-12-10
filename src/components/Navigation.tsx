@@ -42,8 +42,11 @@ export default function Navigation() {
       <div className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-3">
-            <img src="/Screenshot 2025-06-04 at 4.08.42 AM.png" alt="Sage Hospitality" className="h-12 rounded-lg" />
-            <h1 className="text-xl md:text-2xl font-semibold">Sage Hospitality</h1>
+            <img src="/Screenshot 2025-06-04 at 4.08.42 AM.png" alt="Sage Hospitality & Lifestyle Concierge" className="h-12 rounded-lg" />
+            <h1 className="text-xl md:text-2xl font-semibold leading-tight">
+              Sage Hospitality
+              <span className="block text-sm text-gray-400 uppercase tracking-[0.3em]">Lifestyle Concierge</span>
+            </h1>
           </div>
           
           <div className="hidden md:flex items-center space-x-8">

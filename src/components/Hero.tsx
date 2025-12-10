@@ -17,10 +17,10 @@ export default function Hero() {
       {/* Content */}
       <div className="relative z-10 container mx-auto px-6 text-center">
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 text-white">
-          Welcome to <span className="text-yellow-500">Sage Hospitality</span>
+          <span className="text-yellow-500">Sage Hospitality</span> & Lifestyle Concierge
         </h1>
         <p className="text-lg md:text-xl lg:text-2xl mb-8 text-gray-200 max-w-3xl mx-auto">
-          Experience luxury and comfort with our premium hospitality services. We make every stay memorable.
+          Integrated real estate advisory, financial stewardship, and white-glove experiences tailored for every stage of your portfolio.
         </p>
         <a
           href="#about"
