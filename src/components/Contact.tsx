@@ -55,7 +55,7 @@ export default function Contact() {
               <Phone className="text-brand mr-4" />
               <div>
                 <h3 className="font-semibold">Phone</h3>
-                <p className="text-gray-400">+1 (555) 123-4567</p>
+                <p className="text-gray-400">(213) 754-6388</p>
               </div>
             </div>
             <div className="flex items-center">
@@ -69,7 +69,7 @@ export default function Contact() {
               <MapPin className="text-brand mr-4" />
               <div>
                 <h3 className="font-semibold">Address</h3>
-                <p className="text-gray-400">123 Luxury Avenue, Suite 100<br />New York, NY 10001</p>
+                <p className="text-gray-400">Global</p>
               </div>
             </div>
           </div>

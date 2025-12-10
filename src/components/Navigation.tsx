@@ -31,15 +31,15 @@ export default function Navigation() {
     {
       label: 'Residential Real Estate',
       children: [
-        { label: 'Domestic Projects', href: '#residential-domestic' },
-        { label: 'International Projects', href: '#residential-international' },
+        { label: 'Domestic Projects', href: '/residential/domestic' },
+        { label: 'International Projects', href: '/residential/international' },
       ],
     },
     {
       label: 'Commercial Property',
       children: [
-        { label: 'Domestic Projects', href: '#commercial-domestic' },
-        { label: 'International Projects', href: '#commercial-international' },
+        { label: 'Domestic Projects', href: '/commercial/domestic' },
+        { label: 'International Projects', href: '/commercial/international' },
       ],
     },
     { label: 'Contact', href: '#contact' },
