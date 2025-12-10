@@ -19,6 +19,7 @@ export default function Navigation() {
   const navLinks = [
     { label: 'Home', href: '#home' },
     { label: 'About', href: '#about' },
+    { label: 'Services', href: '#services' },
     {
       label: 'Residential Real Estate',
       children: [
@@ -33,7 +34,6 @@ export default function Navigation() {
         { label: 'International Projects', href: '#commercial-international' },
       ],
     },
-    { label: 'Services', href: '#services' },
     { label: 'Contact', href: '#contact' },
   ];
 

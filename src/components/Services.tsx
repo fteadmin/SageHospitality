@@ -73,9 +73,6 @@ export default function Services() {
                 ))}
               </ul>
 
-              <div className="mt-auto pt-6 border-t border-gray-800 text-[11px] uppercase tracking-[0.4em] text-gray-500">
-                End-to-end coverage
-              </div>
             </div>
           ))}
         </div>
