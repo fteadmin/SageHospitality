@@ -7,7 +7,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="min-h-screen bg-[#050505] text-white">
+    <div className="min-h-screen bg-gradient-to-b from-[#060608] to-[#1a1c24] text-white">
       <Navigation />
       <Hero />
       <About />

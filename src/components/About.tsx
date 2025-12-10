@@ -7,10 +7,14 @@ export default function About() {
   const { ref, isVisible } = useScrollAnimation();
   
   return (
-    <section id="about" className="py-12 bg-[#0a0a0a]" ref={ref}>
+    <section
+      id="about"
+      className="py-12 bg-gradient-to-br from-[#050505] to-[#0f0f14]"
+      ref={ref}
+    >
       <div className={`container mx-auto px-6 transition-all duration-1000 ease-out ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-20'}`}>
         <h2 className="text-3xl font-bold mb-12 text-center">
-          About <span className="text-yellow-500">Us</span>
+          About <span className="text-brand">Us</span>
         </h2>
 
         {/* Company Overview */}

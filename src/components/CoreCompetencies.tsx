@@ -11,17 +11,17 @@ export default function CoreCompetencies() {
           <div className="grid md:grid-cols-2 gap-8 items-center">
             <div>
               <div className="flex items-center mb-4">
-                <Shield className="text-yellow-500 mr-3" size={28} />
+                <Shield className="text-brand mr-3" size={28} />
                 <h4 className="text-xl font-semibold">Real Estate & Distressed Asset Solutions</h4>
               </div>
               <p className="text-gray-400 mb-4">
                 We specialize in stabilizing housing situations and protecting equity through strategic intervention.
               </p>
               <ul className="space-y-2 text-gray-300">
-                <li><span className="text-yellow-500">•</span> <strong>Foreclosure Prevention:</strong> Rapid deployment of negotiation strategies to halt foreclosure proceedings and retain ownership.</li>
-                <li><span className="text-yellow-500">•</span> <strong>Lender Negotiation:</strong> Acting as the authorized intermediary to restructure terms with financial institutions.</li>
-                <li><span className="text-yellow-500">•</span> <strong>Loan Modification & Refinancing:</strong> Identifying and executing alternative financing pathways to lower monthly obligations and secure assets.</li>
-                <li><span className="text-yellow-500">•</span> <strong>Strategic Realty Partnerships:</strong> Leveraging our exclusive partnership with Serenity Realty to execute market-specific solutions.</li>
+                <li><span className="text-brand">•</span> <strong>Foreclosure Prevention:</strong> Rapid deployment of negotiation strategies to halt foreclosure proceedings and retain ownership.</li>
+                <li><span className="text-brand">•</span> <strong>Lender Negotiation:</strong> Acting as the authorized intermediary to restructure terms with financial institutions.</li>
+                <li><span className="text-brand">•</span> <strong>Loan Modification & Refinancing:</strong> Identifying and executing alternative financing pathways to lower monthly obligations and secure assets.</li>
+                <li><span className="text-brand">•</span> <strong>Strategic Realty Partnerships:</strong> Leveraging our exclusive partnership with Serenity Realty to execute market-specific solutions.</li>
               </ul>
             </div>
             <div>
@@ -46,15 +46,15 @@ export default function CoreCompetencies() {
             </div>
             <div className="order-1 md:order-2">
               <div className="flex items-center mb-4">
-                <TrendingUp className="text-yellow-500 mr-3" size={28} />
+                <TrendingUp className="text-brand mr-3" size={28} />
                 <h4 className="text-xl font-semibold">Capital Acquisition & Funding Procurement</h4>
               </div>
               <p className="text-gray-400 mb-4">
                 We empower clients by securing the capital necessary for stability or expansion.
               </p>
               <ul className="space-y-2 text-gray-300">
-                <li><span className="text-yellow-500">•</span> <strong>Funding Procurement:</strong> Leveraging an extensive network to secure high-value funding (minimum thresholds apply).</li>
-                <li><span className="text-yellow-500">•</span> <strong>Deal Structuring:</strong> Expert navigation of terms and conditions to ensure client protection in funding agreements.</li>
+                <li><span className="text-brand">•</span> <strong>Funding Procurement:</strong> Leveraging an extensive network to secure high-value funding (minimum thresholds apply).</li>
+                <li><span className="text-brand">•</span> <strong>Deal Structuring:</strong> Expert navigation of terms and conditions to ensure client protection in funding agreements.</li>
               </ul>
             </div>
           </div>
@@ -65,16 +65,16 @@ export default function CoreCompetencies() {
           <div className="grid md:grid-cols-2 gap-8 items-center">
             <div>
               <div className="flex items-center mb-4">
-                <Users className="text-yellow-500 mr-3" size={28} />
+                <Users className="text-brand mr-3" size={28} />
                 <h4 className="text-xl font-semibold">Asset Management & Business Advisory</h4>
               </div>
               <p className="text-gray-400 mb-4">
                 We ensure long-term sustainability through education and strategic planning.
               </p>
               <ul className="space-y-2 text-gray-300">
-                <li><span className="text-yellow-500">•</span> <strong>Financial Literacy Programs:</strong> Custom curriculums designed to close knowledge gaps and empower financial decision-making.</li>
-                <li><span className="text-yellow-500">•</span> <strong>Risk Mitigation:</strong> Proactive analysis to shield personal and business assets from future liability.</li>
-                <li><span className="text-yellow-500">•</span> <strong>Strategic Business Consulting:</strong> High-level guidance on business growth, operational efficiency, and investment analysis.</li>
+                <li><span className="text-brand">•</span> <strong>Financial Literacy Programs:</strong> Custom curriculums designed to close knowledge gaps and empower financial decision-making.</li>
+                <li><span className="text-brand">•</span> <strong>Risk Mitigation:</strong> Proactive analysis to shield personal and business assets from future liability.</li>
+                <li><span className="text-brand">•</span> <strong>Strategic Business Consulting:</strong> High-level guidance on business growth, operational efficiency, and investment analysis.</li>
               </ul>
             </div>
             <div>
